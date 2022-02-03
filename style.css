@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    margin: 10px 5px;
+}
+#buttonWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#colorValue{
+    text-align: center;
+}
+#answer{
+    text-align: center;
+}
+.btn{
+    
+    border: 2px solid;
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background-color: rgb(255, 0, 0);
+    margin: 10px 10px;
+}
+#reset{
+    display: block;
+    margin: 15px auto;
+}
